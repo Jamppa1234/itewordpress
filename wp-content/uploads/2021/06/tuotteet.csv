@@ -1,0 +1,864 @@
+id,hylly,tuotenumero,varaosanro,Nimike,saldo,yks,myynti,osto
+1,A4,A61000,260-1109300-01,ilmansuodatin Bel 1221/1523,1,kpl,0,20.71
+2,A4,A61001,260-1017060,Öljynsuodatin 1221/1522,2,kpl,0,1.37
+3,A8,A81000,755-3101017,Vanteenkeskiö,0,kpl,0,40
+4,A8,A81001,72-2203010-A2 OR,Kardaani,0,kpl,0,0
+5,A9,A91000,771B-3104050,Pinnapultti,18,kpl,0,3.9
+6,A9,A91001,771B-3107042,Pinnapultin mutteri,12,kpl,0,2.15
+7,A9,A91002,771B-3107044,Pyörän kiinnityspalikka,8,kpl,0,10
+8,A9,A91003,10.000-A,Lamelli,58,kpl,0,2.15
+9,A10,A10000,771B-3104016-20,Kansi,4,kpl,0,8.25
+10,A10,A10001,771B-3104067,Kansi tiiviste,2,kpl,0,1.25
+11,A10,A10002,771B-3104035-B,Akselitiiviste,4,kpl,0,1.36
+12,A10,A10003,"M72x1,5 PTS-9","Lukitusmutterisarja M72x1,5 PTS-9",1,kpl,0,2.24
+13,A11,A11002,PD032,Polttoainesuodatin PD032/A20-1117010,5,kpl,0,14.5
+14,A11,A11003,FT20-1117010,PÖ suodatin vedenerottajalla,1,kpl,0,6.5
+15,A12,A12000,IPTC-11,Jousen keskihenkseli L-325mm,4,kpl,0,26.6
+16,A12,A12001,516-290,Henkselipultti L-295mm,4,kpl,0,20
+17,A12,A12002,,Mutteri henkselipultille,24,kpl,0,2.15
+18,A13,A13000,70-1309080,Tuulitunneli,1,kpl,0,6.79
+19,A14,A14000,70-3407040-A1,Öljyputki ohjaustehostin,2,kpl,0,29.5
+20,A14,A14001,50-3405047,Ohjaustehostin pylvään akseli,1,kpl,0,28.75
+21,A15,A15000,9172780,Startti magneton 24V,0,kpl,0,0
+22,A15,A15001,11.131.821 (AZE4183),Startti 12 V ZE4183 LETRIKA,0,kpl,0,0
+23,A15,A15002,9142780,"Startti 12 V /2,7 kW",0,kpl,0,0
+24,A16,A16000,771B-3502110,Jarrukengän levittäjä akseli,1,kpl,0,3.18
+25,A16,A16001,771B-3502115,Jarrukengän levittäjä akseli,1,kpl,0,3
+26,A16,A16002,7716-3502106-B 143-63P3,Jarruhihna,6,kpl,0,5.51
+27,A16,A16003,500-3501034,Jarrujousi pitempi,9,kpl,0,1.71
+28,A16,A16004,500-3501037,Jarrujousi lyhyempi,9,kpl,0,1.43
+29,A16,A16005,771B-3502020,Jarrukilpi  vasen,3,kpl,0,23
+30,A16,A16006,771B-3502021,Jarrukilpi  oikea,3,kpl,0,23
+31,A16,A16007,8x24,Niittejä,1,kpl,0,2.71
+32,A18,A18000,1220-4605630-04,Vetovarsi,1,kpl,0,220
+33,A19,A19000,9554-3502090,Jarrukenkä,4,kpl,0,165.66
+34,A20,A20000,771B-3502070-01,Jarrurumpu,1,kpl,0,80.87
+35,A21,A21000,70-2801120-A,Etukehto,1,kpl,0,98
+36,A22,A22000,T25-1601050-B1,2-levykytkin  täydellinen,1,kpl,0,145.7
+37,A23,A23000,70-1601090A,Paineasetelma,1,kpl,91.8,68
+38,A24,A24000,50-1601093,Kytkimen painelevy,2,kpl,0,30.2
+39,B2,B20000,80-8104070,Ohjaamon ilmansuodatin,2,kpl,0,6.1
+40,B2,B20001,A53.21.000-02,Ilmanpuhd.hattu 85mm,2,kpl,0,0
+41,B2,B20002,A53.21.000,Ilmanpuhd.hattu 70mm,1,kpl,0,0
+42,B3,B30000,50-1117030 OR,Pö-suodatin pieni 118*51 Ø 10,1,kpl,0,0.76
+43,B3,B30001,240-1117030 OR,Pö-suodatin iso 118*86 Ø 10,5,kpl,0,0.83
+44,B3,B31000,70-1101080,Säiliön sihti,2,kpl,0,4.75
+45,B4,B41000,240-1105010,Veden erottaja,2,kpl,0,18.95
+46,B4,B41001,KP-25,Polttoainehana,0,kpl,7.66,4.1
+47,B4,B41002,KR-12 D,Hana,3,kpl,0,5.25
+48,B4,B41003,Dump-19,Polttoainemittarin anturi,0,kpl,19.03,7.9
+49,B4,B41004,Dump-21M,Polttoainemittarin anturi (uudempi),1,kpl,19.03,6.8
+50,B4,B41005,KP-25 OR,Polttoainehana Originals (kartio),2,kpl,0,4.1
+51,B5,B50000,50-1701216,Hammaspyörä     Z=40,1,kpl,0,23.75
+52,B5,B50001,50-1701182,Vaihteiston pääakseli,1,kpl,0,23.75
+53,B5,B50002,50-1601215,Painelaakerin haarukan akseli,0,kpl,0,12.5
+54,B5,B50003,52-2301058-A,Kehdontapit,2,kpl,0,8.7
+55,B5,B50004,80-4607075-A,Hydr.putki,3,kpl,0,22
+56,B5,B50005,240-1308010-A,Tuulettajan siivet  6-lapainen,0,kpl,0,19
+57,B5,B50006,70-4607075-A (P50-4607075-A),Hydr.putki,1,kpl,0,17.5
+58,B5,B50007,50-1701212OR,Hammaspyörä  Z=17,0,kpl,0,17.5
+59,B6,B61000,PP362-B1,Rele,2,kpl,0,1.05
+60,B6,B61001,PC410,Vilkkurele,4,kpl,0,2.1
+61,B6,B61002,PC75B,,1,kpl,0,0
+62,B6,B61003,BP-1,Sulakerasia 4.paik.,1,kpl,0,6.9
+63,B6,B61004,BP-2,Sulakerasia 6-paikk.,1,kpl,0,7.9
+64,B6,B61005,BP-6,Sulakerasia 6-paikk.,1,kpl,0,6
+65,B6,B61006,TM100B,Lämpömittarin anturi,3,kpl,0,3.2
+66,B6,B61007,YK133.AB,Lämpömittari,2,kpl,0,7.6
+67,B6,B61008,TC-107,Termostaatti 86,1,kpl,0,5.75
+68,B6,B61009,TC-109,Termostaatti 70,1,kpl,0,7.25
+69,B6,B61010,TC-107 87,Termostaatti  87,0,kpl,0,5.75
+70,B6,B61011,37.003.669-85,Lämpömittari,1,kpl,0,8.75
+71,B7,B73000,A19.01.001,Öljyntäyttökorkki,4,kpl,0,2.9
+72,B7,B73001,KR-2,Lohkon hana OR,2,kpl,0,2.15
+73,B7,B73002,KR-29/VSH,Hana,1,kpl,0,1.33
+74,B7,B73003,PO-11,Lämmityslaitteen hana,4,kpl,0,5.2
+75,B7,B73004,37.003.169-77,Lämpömittari kabillaari,1,kpl,35,8.75
+76,B7,B73005,309.090.010,Lämmityslaitteen moottori,1,kpl,0,51.35
+77,B7,B73006,BK343-03.29,Painovipu valo 3 napainen,0,kpl,5,1.25
+78,B7,B73007,P147M 01.1.,Painovipu / 3 napainen,5,kpl,0,1.55
+79,B7,B73008,P14704.11,Painovipu lämmittimen 6 napainen,3,kpl,0,1.25
+80,B7,B73009,P147M04.29,Painovipu valojen 6 napainen,0,kpl,0,1.75
+81,B7,B73010,P150-14-10,Painovipu lasinpyyhkijä 2 nap,7,kpl,0,1.15
+82,B7,B73011,,Painovipu tasausp.lukko,4,kpl,0,1.15
+83,B7,B73012,,Painovipu työvalo,2,kpl,0,1.15
+84,B7,B73013,,Painovipu hehku,1,kpl,0,1.15
+85,B8,B82000,245-1306027,Termostaatin letkuliitin,5,kpl,0,1.75
+86,B8,B82001,3FE-8101500,Imusarjan hehku,2,kpl,0,23.65
+87,B8,B82002,D18-113,Tiivisterikka,4,kpl,0,1
+88,B8,B82003,240-1111113-A-01,panjopultti siirtopumppuun,0,kpl,0,2.7
+89,B8,B82004,F80-3405102-B,Ohjaussylinterin holkki,1,kpl,0,1.5
+90,B8,B82005,70-4202011,Lukitustappi 10 * 20 mm,13,kpl,0,2.25
+91,B8,B82006,475.3730,Lasinpyyhkijän moottori ty. 37.459,1,kpl,225,56.25
+92,B8,B82007,475.3730-10,Lasinpyyhkijän moottori kotelolla,3,kpl,281,70.25
+93,B9,B94000,72-2308009,Kartioprikka,7,kpl,9.6,2.4
+94,B9,B94001,70-4202081A,sisäpuolinen lukkorengas,7,kpl,0,0.9
+95,B9,B94002,52-2301061,Etuakselin siirtopyörän kansi,2,kpl,0,3.45
+96,B9,B94003,52-2301054-A,"Akseli halk 16 mm * 79,5 mm",2,kpl,0,3.25
+97,B9,B94004,52-2301052,Etuakselin siirtäjä (säätömutteri),3,kpl,0,3.15
+98,B9,B94005,SHSP-25,Häränsilmä,6,kpl,0,3.34
+99,B9,B94006,SHP-30,Häränsilmä,12,kpl,0,4.65
+100,B9,B94007,80-4614020,Kyntösyvyyden säädin,1,kpl,0,130.16
+101,B9,B94008,50-4202052,Ulosotonrumpu,1,kpl,0,35.06
+102,B10,B10100,85-4202100,Ulosotonjarrupanta       34mm,2,kpl,0,18.35
+103,B10,B10101,240-1117010,Suodatinkotelo,2,kpl,0,33.5
+104,B10,B10102,52-1802070,Kard.laippa,2,kpl,0,9.75
+105,B10,B10103,50-1701191,Laakeripesä,6,kpl,0,6
+106,B10,B10104,50-1701183,Välilevy,2,kpl,0,3.75
+107,B10,B10105,50-2403049B,Levy,4,kpl,0,6.1
+108,B10,B10106,50-2407028,Kansi,5,kpl,0,9.15
+109,B10,B10107,50-3104016,Navankiila,2,kpl,0,1.25
+110,B10,B10108,70-4202100,Ulosotonjarrupanta       44mm,1,kpl,0,6
+111,B10,B10109,85-4202100-01,Ulosotonjarrupanta       56mm,1,kpl,0,6
+112,B11,B11000,A28.04.00.000-A1,Hydraulisäiliö suodatin täydellinen,0,kpl,0,0
+113,B11,B11500,72-2301059-A1,Lukituslevy,2,kpl,0,1.52
+114,B11,B11501,80-4202019b,Ulosotonakseli 8-poorinen,2,kpl,0,19.9
+115,B11,B11502,50-1601172-A,kytkinakselin laippa,1,kpl,0,19.8
+116,B11,B11503,50-4608057,Hydr.öljysuodattimen jousi,2,kpl,0,0.8
+117,B11,B11504,240-1004115-A,Kiertokangen hela,4,kpl,0,4.85
+118,B11,B11505,50-4608012-A1,Hydr.suodatin pestävä,1,kpl,0,30
+119,B11,B11506,A28.04.20.00,Hydr.suodattimen kotelo/pesä,1,kpl,0,16.25
+120,B11,B11507,A28.04.00.000-A,Hydrauliikka suodatin pesä+suodatin,1,kpl,0,40.7
+121,B11,B11508,80-4202019-B-01,Ulosotonakseli 6 poorinen,0,kpl,0,19.9
+122,B12,B12100,952-3407100,Ohjaussylinterin letku,4,kpl,0,27.6
+123,B12,B12101,50-3001040-A,Olkaakselin varsi,1,kpl,0,7.75
+124,B12,B12102,52-2303010,Tasauspyörästö / Etuperä,1,kpl,0,18
+125,B12,B12103,Z63-3405115-02,Ohjaussylinteri,1,kpl,0,221.65
+126,B12,B12104,52-2308074,Ohj.varsi,1,kpl,#ARVO!,137.95
+127,B12,B12105,50-3405015,Sylinteri,1,kpl,0,12.9
+128,B12,B12106,70-3405022,Hammastanko,1,kpl,0,58
+129,B12,B12000,72-2308074,Ohjausvipu,1,kpl,0,12
+130,B13,B13000,PT-3802010-09,Mittarinanturi kierr.,2,kpl,0,12.7
+131,B13,B13001,80-4605281,Haarukka,2,kpl,0,5
+132,B13,B13002,1520-2308024,Etuakselin nivel,1,kpl,0,96
+133,B13,B13003,80-4202017-B,Ulosoton akseli,1,kpl,0,35.5
+134,B13,B13004,70-4202077,Hela,6,kpl,0,1
+135,B13,B13005,80-6700160,Ohjaamon kumityyny,8,kpl,0,4.4
+136,B13,B13006,240-1001025,Moottorin kumityyny,2,kpl,0,4.75
+137,B13,B13007,130-5001364B,Ohjaamon kumityyny,4,kpl,0,1.48
+138,B13,B13008,70-4202431,Sokka 4x20,2,kpl,0,0.6
+139,B13,B13009,70-4605048-A,Silmäpultti,4,kpl,0,2
+140,B13,B13010,102-3405113,Ohjaussyl. tapin mutteri,5,kpl,0,1.85
+141,B13,B13011,1220-4605104,Aisapultti / sivurajoittimen pultti,1,kpl,0,1.35
+142,B14,B14600,80-1701045,"Mutteri, neliveto etuakseli, navan lukitusmutteri",0,kpl,0,4.95
+143,B14,B14601,1520-2308018,planeetta hammaspyörä etuakseli,0,kpl,0,16.39
+144,B14,B14602,70-4605071,Tappi ¤22mmx98mm,2,kpl,0,1.75
+145,B14,B14603,80-4605282,Haarukka,1,kpl,0,5
+146,B14,B14604,80-4202081-A,Kiinnityslevy,4,kpl,0,2.65
+147,B14,B14605,820-4635022,Kevennysjousi 10x55x74,2,kpl,0,3.33
+148,B14,B14606,A61.03.001.02,"Tappi ¤21,5x108 mm",8,kpl,0,1.23
+149,B14,B14607,70-2807053-b,Nostotangon kulma,8,kpl,0,4.6
+150,B14,B14608,1220-4605108,"Silmäpultti lyhyt halk 25 mm, pituus 45 mm",2,kpl,0,5.17
+151,B14,B14609,52-2301056-01,Kiilapultti  etuakseli,4,kpl,0,3.8
+152,B14,B14610,70-1602120-b,Laippa   nostolaite,2,kpl,0,3.83
+153,B14,B14611,50-4605076,Tappi halk 18*80 mm,2,kpl,0,0
+154,B14,B14612,70-4605312,nostolaitteen tappi,1,kpl,0,11.28
+155,B14,B14613,,Tappi 25mmx120mm,2,kpl,0,0
+156,B15,B15700,50-1601180,Painelaakeri,0,kpl,16.88,12.5
+157,B15,B15701,50-1601083-B,Kytkimenjousi,0,kpl,0,0.85
+158,B15,B15702,70-1601094,kytkinkäpälä,9,kpl,0,2
+159,B15,B15703,70-4202083A,"Ulosottoakselin mutteri M24x1,5",2,kpl,0,3.1
+160,B15,B15704,CT212A.3708400,Starttimoottorin pääty startille 20.3708000,1,kpl,0,18
+161,B15,B15705,85-1601094,Kytkinkäpälä,9,kpl,0,2.65
+162,B15,B15706,9588214K219,Painelaakeri,0,kpl,0,14.95
+163,B15,B15707,52-2308097,Pysty-ja vaaka-akselin lukitus mutteri etuakseli,16,kpl,0,2.6
+164,B15,B15708,50-4605068-B,Kartiorikka. Nostolaite poikkiakseli,4,kpl,0,2.75
+165,B16,B16000,H50-4605040-B2,Vetoaisan jatko pit.oikea,2,kpl,0,40
+166,B16,B16001,H50-4605045-B2,Vetoaisan jatko pit.vasen,3,kpl,0,40
+167,B16,B16002,80-4605040,Vetovarrenjatko pit.oikea,3,kpl,0,19.75
+168,B17,B17000,A61.02.001,Vanttiruuvi,1,kpl,0,11.75
+169,B17,B17001,50-4605012,Nostovarsi vasen,0,kpl,0,22
+170,B17,B17002,50-4605100B,Haarukka,2,kpl,0,9.05
+171,B17,B17003,70-4605100,Haarukka,8,kpl,0,11.5
+172,B18,B18000,A61.03.200,Työntövarrenruuvi,5,kpl,0,13.1
+173,B18,B18001,A61.02-100-03,Työntövarrenpää,5,kpl,0,11.75
+174,B18,B18002,A61.03.000,"Työntövarsi 22/22 pituus 500 mm, halk 22/22 mm",0,kpl,0,21.66
+175,B19,B19000,718,Raidetangonpään korj.srj.kumit,22,kpl,0,0
+176,B19,B19001,,Raidetangonpään korj.srj.sis.tapin,5,kpl,0,0
+177,B19,B19002,717,"Raidetngonpään korj,srj,T40",1,kpl,0,0
+178,B20,B20800,70-2409021-A,Tasauspyörästön lukon kumi,2,kpl,0,3.5
+179,B20,B20801,D80-4607100,Hydr.tuloputkenlaippa,5,kpl,0,12.75
+180,B20,B20802,50-3502068X3,Jarrun jousi,11,kpl,0,0.19
+181,B20,B20803,50-3502068x5,Jarrun jousi,4,kpl,0,0.2
+182,B20,B20804,50-3104028,Takanavan pultti,4,kpl,0,2.55
+183,B20,B20805,50-3104029,Takanavan kartiorikka,6,kpl,0,1.05
+184,B20,B20806,WP-27,Takanavan lukkorikka,7,kpl,0,0.55
+185,B20,B20807,85-4202033,Ulosoton kitkapyörä,1,kpl,0,15.2
+186,B20,B20808,50-1601203,Painelaakerin siirtohaarukka,0,kpl,0,4.75
+187,B20,B20809,70-4605024-A,Nostokynkkä,1,kpl,0,29.8
+188,B20,B20810,A53.32.003,Raid.tapin kansiosa,1,kpl,0,1.5
+189,B21,B21000,72-2308016B,Etunavan kansi/koppa,4,kpl,0,89.7
+190,B22,B22000,52-3003010-A,Raidetanko,0,kpl,0,22.25
+191,B22,B22001,A35.32.001-A,"Raidetangonpää  oik. RH M22x1,5 L-190",0,kpl,0,4.18
+192,B22,B22002,A35.32.001,Raidetangonpää  vas.,0,kpl,0,6.25
+193,B23,B23000,50-3001085-01,Olka-akseli  vasen,4,kpl,0,76.6
+194,B23,B23001,70-2409020,Tasauspyörästön lukon akseli,1,kpl,0,32.5
+195,B24,B24000,F80-3405109,Ohjaustapin kumisuojus,28,kpl,0,1.1
+196,B24,B24001,F80-3405108,Tiiviste suojus,19,kpl,0,0.45
+197,B24,B24002,F80-3405107,Tiiviste suojus,24,kpl,0,0.7
+198,B24,B24003,F80-3405103,Lukitusrikka,9,kpl,0,0.45
+199,B24,B24004,F80-3405102,Ohjaussylinterin holkki,5,kpl,0,1.5
+200,B24,B24005,F80-3405101,Ohjaussylinterin tappi,7,kpl,0,20
+201,B24,B24006,40-3001022,Ohjaussylinterin tapin holkki,1,kpl,0,1.72
+202,C1,C11000,82.6-4713334,Suojakumi ohjauksen,4,kpl,0,1.8
+203,C1,C11001,72-2308004,Pinnapultti,3,kpl,0,2.05
+204,C1,C11002,A04.02.020-01,Lukkomutteri,6,kpl,0,1.29
+205,C1,C11003,1824PTM,Jarrutehostimen lukon korjaussarja,2,kpl,0,1.4
+206,C1,C11004,50-4608027-B,Tulppa,2,kpl,0,1.25
+207,C1,C11005,72-2209027,"Etuvedon välikytkimen säätörikka 1,5mm",11,kpl,0,0.45
+208,C1,C11006,72-2209025,"Etuvedon välikytkimen säätörikka 1,5mm",35,kpl,0,0.55
+209,C1,C11007,72-2209019,"Etuvedon välikytkimen säätörikka 3,0mm",20,kpl,0,0.45
+210,C1,C11008,72-2209021,Etuvedon välikytkimen jousirikka,19,kpl,0,0.5
+211,C1,C11009,50-1602033,Säätöruuvi,6,kpl,0,1.6
+212,C1,C11010,70-4605047,Hela  nostolaite,3,kpl,0,0.5
+213,C1,C11011,50-1602032,Jarrupolkimen palautus jousi,3,kpl,0,4.25
+214,C1,C11012,50-1602029,Kytkinpolkimen jousen aluslaatta,2,kpl,0,0.6
+215,C1,C11013,50-1602027,Jarrupolkimen haarukka,7,kpl,0,1.15
+216,C1,C11014,70-3003032,"Mutteri M18x1,5 etuvedon kardaaninlaippa",10,kpl,0,1.45
+217,C1,C11015,50-3405053,Mutteri ohjaustehostimen vipu  alapää,3,kpl,0,2.8
+218,C1,C11016,A61.02.003,Työntövarren lukitus mutteri,5,kpl,0,1
+219,C2,C20000,50-1601098,Kytkinkäpälän säätöruuvi,33,kpl,0,1.75
+220,C2,C20001,50-1103010,Polttoainesäiliön korkki,2,kpl,0,6.5
+221,C2,C20002,082-1100310,Polttoainesäiliön korkki,5,kpl,0,3.15
+222,C2,C20003,0439-47,Seikeririkka,4,kpl,0,0.6
+223,C2,C20004,48-1002318,Tiivisterikka 20mm hydrauliikka,10,kpl,0,0.75
+224,C2,C20005,240-1004022,Männäntapin lukkorengas,36,kpl,0,0.4
+225,C2,C20006,240-1007048,Venttiilinjousen aluslevy,8,kpl,0,0.65
+226,C2,C20007,240-1003114,Suuttimenholkki,4,kpl,0,4
+227,C2,C20008,82P-2409036,Tiiviste holkki  jarrutehostin,3,kpl,0,1.1
+228,C3,C33000,16-C42-6B,Suuttimenkärki/mtz50,1,kpl,0,5.25
+229,C3,C33001,16-C35-3B,Käsipumppu Pö,0,kpl,0,4.15
+230,C3,C33002,240-1404110,Suodattimen sihti,3,kpl,0,2.15
+231,C3,C33003,240-1104320A,Ylivuotoputki,3,kpl,0,5.15
+232,C3,C33004,171.1112110,Suuttimenkärki  D260,1,kpl,0,9.5
+233,C3,C33005,36.65.000-06,Kuristin nippa nostosylinteriin,9,kpl,0,3.5
+234,C4,C44000,72-2203025PH,Kardaanin ristikko,2,kpl,0,4.75
+235,C4,C44001,72-2308021-B,"Tiiviste/passauslevy   0,5mm",5,kpl,0,1.05
+236,C4,C44002,72-2201043-B,Ristikonsokka,26,kpl,0,0.2
+237,C4,C44003,240-1002430-V,Huohotimen kansi,1,kpl,0,3.8
+238,C4,C44004,52-2203020,kardaanin pultti,2,kpl,0,0.2
+239,C4,C44005,70-4608065-A,Hydraulisäiliön mittatikku,1,kpl,0,3.15
+240,C4,C44006,70-1701410-A,Vaihteiston mittatikku,3,kpl,0,2.45
+241,C4,C44007,240-1002440,Huohottimen suodatin,2,kpl,0,0.25
+242,C4,C44008,240-1117101-A,Polttoaine suodattimen kannenpultti,12,kpl,0,1.2
+243,C4,C44009,240-1005122,Kytkimen pultti,12,kpl,0,1.1
+244,C4,C44010,,Paineilmakompressorin venttiili,,kpl,0,0
+245,C5,C50000,240-1403020-02,Öljypumppu   Z=36,1,kpl,0,26.34
+246,C5,C50001,70-4202026,Ulosoton planeettapyörän akseli,3,kpl,0,2.6
+247,C5,C50002,240-1404024,Suodatin hyrrä,1,kpl,0,0.75
+248,C5,C50003,50-1403015-A,Öljyputki,2,kpl,0,8
+249,C5,C50004,50-1403010-B,Öljypumppu  Z=28,1,kpl,0,37.71
+250,C6,C61000,70-4202024,Satell./hammaspyörä,3,kpl,0,3
+251,C6,C61001,70-4605032,Kääntöakselihela nostolaite,4,kpl,0,8.75
+252,C6,C61002,240-3701063,Laturin kiristin,1,kpl,0,3.75
+253,C6,C61003,240-3701056-B,Laturin kiinnike pukki,1,kpl,0,12.5
+254,C6,C61004,50-1701188,Booriholkki,1,kpl,0,8.75
+255,C6,C61005,80-4616140,Käyttölaite,1,kpl,0,35.75
+256,C6,C61006,80-8402065,Konepeitonlukko  oikea,2,kpl,0,5.8
+257,C6,C61007,80-8402060,Konepeitonlukko vasen,1,kpl,0,5.5
+258,C6,C61008,70-2409018,Välilevy,2,kpl,0,7.1
+259,C6,C61009,19.04.19,Kansi,2,kpl,0,15
+260,C6,C61010,70-1701082OR,Hammaspyörä Z-31,0,kpl,0,22.97
+261,C7,C71000,245-1004060-A,Männänrengas sarja,1,kpl,0,25
+262,C7,C71001,260-1004060-B,Männänrengas sarja,2,kpl,0,10
+263,C7,C71002,245-1004060-A,Männänrengas sarja,1,kpl,0,25
+264,C8,C85000,A21.01.270,Jäähdyttäjän korkki,2,kpl,0,2.9
+265,C8,C85001,50-1306025-B2,Termostaattikotelo,1,kpl,0,5.23
+266,C8,C85002,70-1303001,Ylävesiletku,0,kpl,0,1.26
+267,C8,C85003,50-1303062,Alavesiletku,1,kpl,0,1.75
+268,C8,C85004,70U-1301169,Jäähdyttäjän päätytiiviste,3,kpl,0,1.25
+269,C8,C85005,70U-1301075M,Jäähdyttäjän pohjaosa (70У.13.01.075),2,kpl,0,33.5
+270,C8,C85006,50-1306028-B2,"Termostaattikotelon letku halk 18 mm, pituus 145 mm",1,kpl,0,0.75
+271,C8,C85007,70U-1301055 OR,Jäähdyttimen kansi,0,kpl,55.65,37.04
+272,C9,C91000,D65-1004021,Mäntä,4,kpl,0,21
+273,C9,C91001,D65-1004021,Mäntä,2,kpl,0,24
+274,C10,C10100,50-1004140-A,Kiertokangen laakeri sarja  P1,3,kpl,0,19.75
+275,C10,C10101,50-1004140-A,Kiertokangen laakeri sarja  R1,1,kpl,0,19.75
+276,C10,C10102,50-1005100-B3,Runkolaakeri sarja   H1,0,kpl,0,18
+277,C10,C10103,50-1005100-B3,Runkolaakeri sarja P1,1,kpl,0,18
+278,C10,C10104,50-1004140-A,Kiertokangenlaakeri sarja H2,2,kpl,0,19.75
+279,C10,C10105,50-1004140-A,Kiertokangenlaakeri sarja    N2,0,kpl,0,19.75
+280,C10,C10106,50-1005100-B3,Runkolaakeri sarja   H2,1,kpl,0,18
+281,C10,C10107,50-1005100-B3,Runkolaakeri sarja   R1,0,kpl,0,18
+282,C10,C10108,240-1005100-B3,Runkolaakeri sarja   R1,1,kpl,0,18
+283,C10,C10109,50-1004140-A,Kiertokangenlaakeri sarja H2,2,kpl,0,19.75
+284,C10,C10110,171.1112010,Ruiskutus suutin runkoineen,3,kpl,0,46.8
+285,C10,C10111,240-1007152-B,Keinuvipuakselin pukki,1,kpl,0,4.28
+286,C12,C12600,50-3405041,Kehdonhela ohjauspylvään kiinnitys,2,kpl,0,0.3
+287,C12,C12601,50-3405032,"Hela 37,5x58x55  ohjauspylvään alapää",1,kpl,0,1.25
+288,C12,C12602,40-3001022,Pyöränmutteri   takapyörä,2,kpl,0,1.55
+289,C12,C12603,50-2403023,Lukkolevy  peränlautaspyörä,6,kpl,0,2.4
+290,C12,C12604,50-1701181,Mutteri vaihteisto akselin lukitus,1,kpl,7.5,3.75
+291,C12,C12605,72-2203011,Kytkimen pultti,6,kpl,0,0.95
+292,C12,C12606,80-1602075-B,Kytkin polkimen jousen kiinnike,2,kpl,0,2.95
+293,C12,C12607,52-1802073,Etuvedon kardaanin laippa,2,kpl,0,9.75
+294,C12,C12608,50-3407050,Ohjaussylinterin säiliön korkki,2,kpl,0,2.8
+295,C12,C12609,40-3405062,Mutteri nostotangon lukitus,4,kpl,0,3
+296,C12,C12610,50-1702092,Pultti   M12x42   perän lautaspyörän kiinnitys,12,kpl,0,1.7
+297,C12,C12611,50-3502203,Haarukka    vetokoukun vivusto,8,kpl,0,1.95
+298,C13,C13000,240-1000104,Sylinteriputki  230mm  lyhyempi,4,kpl,0,15
+299,C13,C13001,240-1000108-C,Sylinteriputki  230mm  lyhyempi,4,kpl,0,15
+300,C13,C13002,245-1002021-A1,Sylinteriputki  230mm  lyhyempi,4,kpl,0,15
+301,C15,C15800,50-4202046-B,Lukkoholkki ulosotto,1,kpl,0,15
+302,C15,C15801,72-2209013,Välituenakseli etuvedon kardaani,2,kpl,0,29.95
+303,C15,C15802,48-1701032-A,Akseli z12/z16 pääakseli vaihteisto,1,kpl,0,33.95
+304,C15,C15803,50-1701382-A,Akseli     1-vaihde ja peruutus-vaihde,1,kpl,0,24.7
+305,C15,C15804,240-1005131,Kampiakselin hihnapyörä        booreilla,1,kpl,0,17
+306,C15,C15805,50-1701185,Akseli  vaihdelaatikko sisempi,2,kpl,0,20.15
+307,C15,C15000,72-2308121-03,Säätörengas,0,kpl,0,1.25
+308,C15,C15001,72-2308121-02,Säätörengas,0,kpl,0,1.25
+309,C16,C16700,50-1002042-B,Moottorin takapään kaulus,1,kpl,0,10
+310,C16,C16701,50-1007053-A1,Venttiilijousen lukko,37,kpl,0,0.45
+311,C16,C16702,240-3707140,Hehkun polttoainesäiliö,1,kpl,0,11.2
+312,C16,C16703,240-1007102-A,Keinuvipuakseli,1,kpl,0,6.95
+313,C16,C16704,240-1007020,Venttiilivarren tiiviste,23,kpl,0,0.3
+314,C16,C16705,50-1701401,Roiskuttaja levy  vaihteisto,3,kpl,0,3.15
+315,C16,C16706,50-1003104-A,Venttiilikopan kiinnitys mutteri,4,kpl,0,0.34
+316,C16,C16707,50-1007310,Venttilin nostajatanko,2,kpl,0,2.85
+317,C16,C16708,240-1007045-A1,Venttiilin jousi  ulompi,8,kpl,0,1.25
+318,C16,C16709,240-1007046-A1,Venttilin jousi sisempi,8,kpl,0,1.7
+319,C16,C16710,240-3707130-6,Polttoaineputki hehkun säiliölle,1,kpl,0,2.5
+320,C19,C19900,70-1701402,Hela   49x60x43 vaihteisto,10,kpl,0,11.5
+321,C19,C19901,240-1002047,Kannenpultti pitkä,25,kpl,0,1.55
+322,C19,C19902,240-1002047-01,Kannenpultti lyhyt,8,kpl,0,1.75
+323,C19,C19903,50-1004042-A1,Männäntappi 38mm,13,kpl,0,3.2
+324,C19,C19904,240-1002088-B-01,Täyttöputki,1,kpl,0,4.75
+325,C19,C19905,50-1005043,Aluslevy  kampiakselin hihnapyörän takana,2,kpl,0,1.15
+326,C19,C19906,240-1006246,Jakopään välipyörän hela pyörän nro 240-1006244,1,kpl,0,6.79
+327,C19,C19907,50-1003101,Etukammio  D60 moottori,4,kpl,0,6.75
+328,C20,C20100,240-1104160-06,Polttoaineletku  620mm panjopäillä,10,kpl,0,5.06
+329,C20,C20101,70-1101345B14,Polttoaineletku tuplatankeille,0,kpl,0,3.42
+330,C20,C20102,240-1104160-3,Polttoaineletku 305mm panjopäilää,3,kpl,0,1.94
+331,C20,C20103,240-1104160,Polttoaineletku 1000mm panjopäillä,2,kpl,0,1.51
+332,C22,C22000,245-1205614B,Tiiviste,1,kpl,0,0.65
+333,C22,C22001,240-1008021,Pakosarjankulma,0,kpl,0,7.5
+334,C22,C22002,245-1008021-B,Turbonrunko euro,1,kpl,0,78
+335,C22,C22003,245-1008025,Pakosarja turbo,2,kpl,0,50
+336,C22,C22004,240-1008025-A,Pakosarja,0,kpl,0,51.25
+337,D1,D10000,DD-6M,Öljykello,2,kpl,0,33.15
+338,D1,D10001,PG-1,Rele,1,kpl,0,1.9
+339,D1,D10002,BK403,Vaihdekepin turvakytkin,11,kpl,0,2.15
+340,D1,D10003,KAMAX/1202.3704,Virtalukko  10-nap.,2,kpl,0,8.75
+341,D1,D10004,BK12B,Anturi/öljynpaine,3,kpl,0,2.15
+342,D1,D10005,6012.3829,Anturi/öljynpaine,2,kpl,0,2.15
+343,D1,D10006,BK403,Anturi/öljynpaine,0,kpl,0,2.15
+344,D1,D10007,TM100,Lämpömittarin anturi,3,kpl,0,3.2
+345,D1,D10008,PD-51,Hehkun merkki vastus  500,2,kpl,0,8.2
+346,D1,D10009,90.3747,Rele 12v    5 nap.,1,kpl,0,1.26
+347,D1,D10010,BK-418,Anturi/öljynpaine,0,kpl,0,3.25
+348,D1,D10011,ELSE50,Hehkun merkki vastus 800,14,kpl,0,8.2
+349,D1,D10012,112-T,Jännitteen säädin,0,kpl,0,2.36
+350,D2,D29000,19.3730.000,Lämmitys laitteen moottori  venäl.,1,kpl,0,1
+351,D2,D29001,YK-133,Lämpömittari,1,kpl,0,7.6
+352,D2,D29002,9000-1419,Lämmitys laitteen moottori 12 V,1,kpl,0,1
+353,D2,D29003,TX-135,Tuntimittari,1,kpl,0,12.5
+354,D2,D29004,ZY-126,Polttoainemittari,3,kpl,0,6.14
+355,D2,D29005,BK316B,Virtalukko 4 nap.,3,kpl,0,9
+356,D2,D29006,738.3747-20,Käynnistys rele  24V,2,kpl,0,3.2
+357,D2,D29007,TU-1,Merkkivalo lamppu,4,kpl,0,1.05
+358,D2,D29008,MTT-6,Öljynpainemittari,1,kpl,0,12.94
+359,D2,D29009,MTT-10,Painemittari 0-10,2,kpl,0,13.13
+360,D2,D29010,MTT-16,Painemittari  0-16,1,kpl,0,13.13
+361,D2,D29011,1212.3737-05,Pääkatkaisija,0,kpl,0,12.14
+362,D3,D33000,0050.004.303,Panjoliitin,10,kpl,0,1.25
+363,D3,D33001,PN10BR13,Panjoliitin prässättävä,1,kpl,0,4
+364,D3,D33002,3/8-2SN,3/8 hylsy,8,kpl,0,1
+365,D3,D33003,M20L90,"1/2 "" kulma liitin",9,kpl,0,3
+366,D3,D33004,55.47.569-A,Vaihdevivun suojakumi,2,kpl,0,1.15
+367,D3,D33005,80-3805012,Rattiputken läpivientikumi kojetaulu,1,kpl,0,4.9
+368,D3,D33006,16-C13-1B,Syöttöpumpun pultti,3,kpl,0,2.75
+369,D3,D33007,240-1111112,Panjopultti/ylivuotoputki,4,kpl,0,1.25
+370,D3,D33008,A61-C06-A3,Suodatin öljysäiliö,1,kpl,0,1
+371,D3,D33009,245-11112010,Suihkuntiiviste,15,kpl,0,0.65
+372,D3,D33010,KG3/8,Tulppa,2,kpl,0,0.75
+373,D3,D33011,952-4607080,Panjoliitin,3,kpl,0,9.75
+374,D3,D33012,50-1101081,Polttoaine liitäntä,4,kpl,0,1.47
+375,D3,D33013,A12.01.003.03,Panjopultti,6,kpl,0,1.15
+376,D3,D33014,30361206,M20(60)IR3/8 lemmari liitin hydr.öljy,5,kpl,0,1.75
+377,D3,D33015,36-1104787,Tiiviste,3,kpl,0,1.05
+378,D4,D44000,N36.83020,Hydr.letku,1,kpl,0,6.5
+379,D4,D44001,952-4607140,Hydr.letku,2,kpl,0,29.4
+380,D4,D44002,N.036.83.150,Hydr.letku 185mm,0,kpl,0,4.15
+381,D4,D44003,70-3801180,Öljyputki,5,kpl,0,3.9
+382,D4,D44004,80-4607200,Hydr.putki,2,kpl,0,10.15
+383,D4,D44005,70-3801080,Öljyputki,5,kpl,0,5.15
+384,D4,D44006,952-3407100,Hydr.letku,4,kpl,0,4.84
+385,D5,D51000,WL-1500,Ohjausventtiilin kytkentävaijeri,1,kpl,0,37.7
+386,D5,D51001,GV300-04,Nopeusmittarinvaijeri,5,kpl,0,7.5
+387,D5,D51002,GNV20V,Kierroslukumittarinvaijeri,1,kpl,0,5.15
+388,D5,D51003,80-8201106-A,Peilin varret,0,kpl,0,7.95
+389,D6,D61000,245-1306040,Termostaatti kotelo + termostaatti,0,kpl,0,35
+390,D6,D61001,240-1104300,Suihkuputki suora,5,kpl,0,3.5
+391,D6,D61002,260-1104300 1-6,Suutin putkisarja,0,kpl,0,28.56
+392,D6,D61003,240-1104300-4,Suutinputki  4 sylinterille,1,kpl,0,1.83
+393,D7,D75000,70-1101035-B,Säiliön väliputki,2,kpl,0,2.25
+394,D7,D75001,80-4216100,Sylinteri,1,kpl,0,40
+395,D7,D75002, ,ollut sama tuote 2x poistettu,0,kpl,0,0
+396,D7,D75003,A23.11.100-01,Puhd.suod.sihti,3,kpl,0,1.4
+397,D7,D75004,50-2401019-B,Akseli Taka-akselisto,2,kpl,0,12
+398,D8,D81000,40-3103016,Etupyörän pultti,10,kpl,0,1.25
+399,D8,D81001,40-3103017-01,Etupyörän mutteri,17,kpl,0,1.35
+400,D8,D81002,40-3104021,Takapyörän pultti,0,kpl,0,1.9
+401,D8,D81003,36-3104019,Takapyörän mutteri,4,kpl,2.9,1.55
+402,D8,D81004,240-1307030,Vesipumpun korjaussarja,4,kpl,0,1.65
+403,D8,D81005,74.54.422,"Putkipultti 74.54.422 M24x1,5 L-52/61mm",0,kpl,0,1.41
+404,D9,D96000,HW32M-3,Hydr-pumppu,3,kpl,0,46.95
+405,D9,D96001,HW32Y-3,Hydr-pumppu,1,kpl,0,46.95
+406,D9,D96002,HW10G-3L,Hydr-pumppu 4-ur,0,kpl,0,46.95
+407,D9,D96003,NSH32A-3GS,Hydr-pumppu RH,0,kpl,0,56
+408,D10,D10100,240-1404010A,Keskipak.suodattimen kansi,1,kpl,0,70
+409,D10,D10000,8151943,Päävirta kytkin,0,kpl,0,33.15
+410,D11,D11100,CT-50.212.133,Hiilisarja 2-hiiltä/sarja,5,kpl,0,1.9
+411,D11,D11101,7151542,Ankkuri/Magneton/12V,1,kpl,0,21.5
+412,D11,D11102,7153780,Bendiks 12V/24V,7,kpl,0,17
+413,D11,D11103,595,Startin hela,2,kpl,0,1.55
+414,D11,D11104,CT222-3708600,Bendix 4-urainen,1,kpl,0,9.25
+415,D11,D11105,CT142-H,Bendix 24V poorisovite,1,kpl,0,13.75
+416,D11,D11106,7154691,Staattori magneton 24v,1,kpl,0,26.7
+417,D11,D11107,7154722,Solenoidi 24v magneton,1,kpl,0,16.85
+418,D11,D11108,7153712,Ankkuri/Magneton/24V,1,kpl,0,26.75
+419,D11,D11109,344112022,Hiilisarja magneton,4,kpl,0,1.95
+420,D11,D11110,7155182,Solenoidi 12v magneton,1,kpl,0,10.5
+421,D11,D11111,20.3708600,Bendix 4-urainen,3,kpl,0,27.25
+422,D11,D11112,CT212-3708600,Bendix 6-urainen,2,kpl,0,19.25
+423,,D11113,,Solenoidi 12V iso startti,0,kpl,0,16.85
+424,D11,D11114,ST20.3708800,Polttoaineputki hehkun säiliölle,0,kpl,0,19.34
+425,D12,D12000,CT-142,Hiilisarja 24v,4,kpl,0,6
+426,D12,D12001,16.670.154-01,Solenoidi 12v ven.,2,kpl,0,17.45
+427,D12,D12002,16.670.155-01,Solenoidi 24v ven.,1,kpl,0,25.8
+428,D12,D12003,PKP-1,Suuntavilkku,1,kpl,0,22.75
+429,D12,D12004,3912.3769-01,Suuntavilkku,1,kpl,0,14.5
+430,D12,D12005,24.3708025,Startin hiili,7,kpl,0,1.4
+431,D12,D12006,Salamakytkin,12-24v vaihtokytkin ven.,0,kpl,0,14.3
+432,D12,D12007,G50750295103(PMK),Sulake 50 A 12-24 valintakytkimelle,5,kpl,0.3,#ARVO!
+433,D12,D12008,G50750295104(PMK),Sulake 80 A 12-24 valintakytkimelle,1,kpl,0.35,#ARVO!
+434,D13,D13000,50-3502202,Suojakumi  jarruosat,9,kpl,0,1.25
+435,D13,D13001,50-3502040-A,Jarrulevy 180mm  HUOM.   2kpl/paketti,0,kpl,15.07,7.85
+436,D13,D13002,50-3502035,Jarrurumpu  ,2,kpl,0,20.35
+437,D13,D13003,50-3502030-A,Paisuntalevy  180mm,1,kpl,0,19.5
+438,D14,D14000,70-1703203,Suojakumi,2,kpl,0,1
+439,D14,D14001,70-3504055,Käsijarrun akseli,2,kpl,0,21.9
+440,D14,D14002,85-3502030,Paisuntalevy  205mm,2,kpl,0,21.25
+441,D14,D14003,85-3502040-01,Jarrulevy        205mm,9,kpl,0,6.75
+442,D15,D15000,70-1601088-B,Hammaspyörä,2,kpl,0,24.75
+443,D15,D15001,70-1721041,Hammaspyörä   Z=35/30,1,kpl,0,56
+444,D15,D15002,52-2302019,Lautaspyörä,5,kpl,0,15
+445,D15,D15003,F50-1701056-B,Hammaspyörä,1,kpl,0,37.8
+446,D15,D15004,50-1701082,Hammaspyörä,0,kpl,0,17.5
+447,D15,D15005,70-1721031,Hammaspyärä,1,kpl,0,21.9
+448,D15,D15006,72-2209014,Laippa,1,kpl,0,22.75
+449,D15,D15007,70-1721113-A,Vaihteisto akseli,1,kpl,0,34.5
+450,D16,D16000,70-1701025,Vetopyörä/hammasratas  Z=34,1,kpl,0,31.11
+451,D16,D16001,50-1701314,Hammaspyörä,3,kpl,0,21.1
+452,D16,D16002,50-1701218,Hammaspyörä,1,kpl,0,33.9
+453,D16,D16003,50-1701214,Hammaspyörä,1,kpl,0,39.5
+454,D16,D16004,50-1701048-A,Hammaspyörä,1,kpl,0,23.8
+455,D16,D16005,50-1701045,Hammaspyörä,1,kpl,0,16.9
+456,D16,D16006,70-1701196,Hammaspyörä,5,kpl,0,36.9
+457,D16,D16007,50-4604032-A,Hammaspyörä,0,kpl,0,27.25
+458,D16,D16008,70-1601021-B,Vaihteiston akseli,1,kpl,0,24.75
+459,D17,D17000,50-3104015,Napa,1,kpl,0,20.75
+460,D17,D17001,72-2308029-B,Navan suojapelti,1,kpl,0,2.75
+461,D18,D18000,63042RS,Kuulalaakeri,4,kpl,0,2.95
+462,D18,D18001,6308 N,Kuulalaakeri,2,kpl,0,4.75
+463,D18,D18002,6304,Kuulalaakeri,2,kpl,0,1.75
+464,D18,D18003,1210K/H210,2-rivinen kuulalaakeri pohjakuljetin,1,kpl,0,14.6
+465,D18,D18004,111309,2-rivinen kuulalaakeri  lantavaunu,1,kpl,0,15.75
+466,D18,D18005,6315/315,"Kuulalaakeri    74,5-160-57",4,kpl,0,24.5
+467,D18,D18006,1308,2-rivinen kuulalaakeri,2,kpl,0,12.1
+468,D18,D18007,60310,Kuulalaakeri,2,kpl,0,9.5
+469,D18,D18008,6204,Kuulalaakeri,2,kpl,0,3
+470,D18,D18009,1180603 2RS,Kuulalaakeri suojattu,2,kpl,0,4
+471,D18,D18010,6205/205A,Kuulalaakeri,0,kpl,0,3.05
+472,D18,D18011,62204 RS,Kuulalaakeri suojattu  25-52-15,1,kpl,0,2.75
+473,D18,D18012,6-180502 2RS,Kuulalaakeri,2,kpl,0,2.82
+474,D18,D18013,6305/305,Kuulalaakeri  25-62-17,1,kpl,0,3.15
+475,D18,D18014,6308N,Kuulalaakeri  lukkouralla,3,kpl,0,6.25
+476,D18,D18015,6306/306,Kuulalaakeri,0,kpl,0,3.25
+477,D18,D18016,6007,Kuulalaakeri   35-62-14,3,kpl,0,1.4
+478,D18,D18017,2310KM,Kuulalaakeri,1,kpl,0,5.7
+479,D19,D19000,6309/309,Kuulalaakeri 45x100x25,0,kpl,0,4.75
+480,D19,D19001,7507/32207,"Kartiorullalaakeri  35x72x24,25",12,kpl,0,4.15
+481,D19,D19002,6207,Kuulalaakeri    35x72x17,2,kpl,0,3
+482,D19,D19003,6306/306,Kuulalaakeri   30x72x19,2,kpl,0,3.25
+483,D19,D19004,12213KM,Rullalaakeri   65x120x23,2,kpl,0,18.8
+484,D19,D19005,6305/305,Kuulalaakeri    25x62x17,1,kpl,0,3.15
+485,D19,D19006,6208/208,Kuulalaakeri   40x80x18,0,kpl,0,3.2
+486,D19,D19007,6211/211,Kuulalaakeri   55x100x21,4,kpl,0,4
+487,D19,D19008,6308/308,Kuulalaakeri   40x90x23,1,kpl,0,4.75
+488,D19,D19009,30306/7306,Kartiorullalaakeri  30x72x22,1,kpl,0,3.48
+489,D19,D19010,1210K,Kaksoiskuulalaakeri  pohjakuljetin,0,kpl,0,11.75
+490,D19,D19011,6015/115,Kuulalaakeri   40x90x23,4,kpl,0,4.95
+491,D19,D19012,12309KM,Rullalaakeri   45x100x25,4,kpl,0,5.68
+492,D19,D19013,30204/7204,"Kartiorullalaakeri  20x47x15,25",1,kpl,0,2.1
+493,D19,D19014,1180305rs,Vesipumpunl.uusi malli,2,kpl,0,0
+494,D20,D20000,70-1601086-B,Hammaspyörä,1,kpl,0,27.25
+495,D20,D20001,50-1601331-A,Hydrauliikan hammaspyörä  Z=24,0,kpl,0,18.75
+496,D20,D20002,70-1601331,Hydrauliikan hammaspyörä        ,3,kpl,0,14.3
+497,D20,D20003,70-1601081,Siirtäjä holkki,2,kpl,0,13.55
+498,D20,D20004,50-2401020,Siirtäjä holkki  ulosoton siirtäjä,1,kpl,0,4.3
+499,D20,D20005,52-2308061,Vetopyörä hammasratas etuakseli,6,kpl,0,8.8
+500,D20,D20006,70-1701072,Hydr.hammasratas Z-20,1,kpl,0,13.45
+501,D20,D20007,70-1601021,Vaihteiston akseli,1,kpl,0,24.75
+502,D20,D20008,52-2308065,Akseli vaaka  etuakseliston osa,1,kpl,0,54
+503,D20,D20009,50-1701212 OR,Ratas z-17,0,kpl,30.48,15.21
+504,D21,D21000,72-1802020,Etuvedon voimanotto täydellinen,1,kpl,0,141
+505,D21,D21001,72-1802060,Etuvedon voimanoton hammaspyörät,1,kpl,0,89.7
+506,D22,D22500,72-2308062,Lautaspyörä etunapa,2,kpl,0,44.92
+507,D22,D22501,80-4614020,Kyntösyvyyden säädin,0,kpl,0,137.07
+508,D22,D22502,52-2308035,Etuakselin pohjakansi pystyakseli,2,kpl,0,5.7
+509,D22,D22503,52-2302010,Vetopyörästö / vetopyöräpari,1,kpl,0,65
+510,D22,D22504,82-1802170,Etuvedon kytkentä tanko,1,kpl,0,3.25
+511,D23,D23000,51208,Laakeri,3,kpl,0,2.34
+512,D23,D23001,64705,Liukulaakeri,1,kpl,0,13.25
+513,D23,D23002,943/30,Liukulaakeri,3,kpl,0,4.35
+514,D23,D23003,942/40,Liukulaakeri,3,kpl,0,4.15
+515,D23,D23004,6312-2RS,Kuulalaakeri,1,kpl,0,9.7
+516,D23,D23005,3KK72-82-45E,Liukulaakeri,2,kpl,0,5.25
+517,D23,D23006,30217A/6-7217,Kartiorullalaakeri  85-150-30.5,2,kpl,0,7.75
+518,D23,D23007,30215A/6-7215,Kartiorullalaakeri  85-150-30.5,0,kpl,0,5.75
+519,D23,D23008,6312,Kuulalaakeri   60-130-31,1,kpl,0,9.7
+520,D23,D23009,32308/6-7608A,Kartiorullalaakeri  40-90-35.25,1,kpl,0,9.15
+521,D23,D23010,32307/6-7607,Kartiorullalaakeri  35-80-32.75,1,kpl,0,5.1
+522,D23,D23011,6407/407,Kuulalaakeri  35-100-25,2,kpl,0,8.6
+523,D23,D23012,6306/306,Kuulalaakeri  30-72-19,2,kpl,0,3.25
+524,D23,D23013,6306-2RS,Kuulalaakeri   suojattu,2,kpl,0,2.85
+525,D23,D23014,102305,Laakeri,1,kpl,0,4.75
+526,D23,D23015,7512A,Kartiorullalaakeri,1,kpl,0,7.8
+527,D23,D23016,42212KM,Kartiorullalaakeri,0,kpl,0,16.75
+528,D23,D23017,6-7516M,Kartiorullalaakeri,1,kpl,0,8.95
+529,D23,D23018,7217,Kartiorulalaakeri,3,kpl,0,7.75
+530,D23,D23019,6-7607AYW,Kartiorullalaakeri,1,kpl,0,9.75
+531,D23,D23020,6309/309,Kuulalaakeri,1,kpl,0,4.75
+532,D23,D23021,6217,Kuulalaakeri 85-150-28,2,kpl,0,19
+533,D23,D23022,6407/407,Kuulalaakeri 35-100-25,1,kpl,0,8.6
+534,D24,D24000,5115,Lautas/Painekuulalaakeri 75x100x19,1,kpl,0,4.53
+535,D24,D24001,8115,Lautas/Painekuulalaakeri,1,kpl,0,6.75
+536,D24,D24002,5110,Lautas/Painekuulalaakeri,1,kpl,0,4.25
+537,D24,D24003,51206,Lautas/painekuulalaakeri,2,kpl,0,2.88
+538,D24,D24004,32310/7610,Kartiorullalaakeri 50x110x43,2,kpl,0,12.85
+539,D24,D24005,32309/7609,"Kartiorullalaakeri 45x100x38,25",2,kpl,0,9.85
+540,D24,D24006,53610/22310EW,Pallomainen rullalaakeri   50x110x40,1,kpl,0,22.15
+541,D24,D24007,409A,Kuulalaakeri  45x120x29,1,kpl,0,7.95
+542,D24,D24008,6311/311,Kuulalaakeri  55x120x29,1,kpl,0,7.2
+543,D24,D24009,12115/NF1015,Rullalaakeri  75x115x20,2,kpl,0,17.8
+544,D24,D24010,32308/7608A,"Kartiorullalaakeri  40x90x32,25",2,kpl,0,9.15
+545,D24,D24011,32310/7610,Kartiorullalaakeri  50x110x43,1,kpl,0,12.85
+546,D24,D24012,6406/406,Kuulalaakeri  30x90x23,2,kpl,0,7.85
+547,D24,D24013,6307/307,Kuulalaakeri  35x80x21,1,kpl,0,4.15
+548,D24,D24014,6407/407,Kuulalaakeri  35x100x25,2,kpl,0,8.6
+549,D24,D24015,N310,Rullalaakeri  50x110x27,1,kpl,0,16.5
+550,D24,D24016,30306/7306,Kartiorullalaakeri  30x72x22,1,kpl,0,3.48
+551,D24,D24017,6210,Kuulalaakeri 50x90x20,0,kpl,0,5.23
+552,E11,E11000,85-3513010,Paineilmasäiliö,1,kpl,0,41.79
+553,E11,E11001,70-3506441,Ilmaputki,1,kpl,0,5.97
+554,E11,E11002,70-3506121,Ilmaputki,1,kpl,0,6.58
+555,E12,E12000,70-3513015-01,Ilmaletkunliitin paineilmasäätimelle,2,kpl,0,3.92
+556,E12,E12001,80-3521010,Liitäntäpää (A29.76.000),1,kpl,0,11.17
+557,E12,E12002,80-3514010,Jarruventtiili (29.3514010),1,kpl,0,15.83
+558,E12,E12003,80-3512010,Painesäädin,1,kpl,0,21.42
+559,E13,E13000,T28-4610028,Tiiviste pumpunkytkin,1,kpl,0,1
+560,E13,E13001,D42-1205170,Pakoputkentiiviste,11,kpl,0,1.35
+561,E13,E13002,D37M-1008170-B,Pakosarjantiiiste,2,kpl,0,0.95
+562,E13,E13003,D37M-1002023,Kannentiiviste,13,kpl,0,1.3
+563,E13,E13004,D30-1002313,Tiiviste,1,kpl,0,2.4
+564,E13,E13005,D37A-1405097-A,Tiiviste,1,kpl,0,0.75
+565,E13,E13006,D30-1403394,Tiiviste,2,kpl,0,0.8
+566,E13,E13007,D30-1002226-05,Jakopään tiiviste,1,kpl,0,3.2
+567,E13,E13008,D30-1111086,Tiiviste,5,kpl,0,0.95
+568,E13,E13009,D37M-1008070-B,Imusarjantiiviste,13,kpl,0,0.95
+569,E13,E13010,D30-1201031,Tiiviste,2,kpl,0,1.1
+570,E14,E14000,D30-1403394,Tiiviste,2,kpl,0,0.8
+571,E14,E14001,T25-3502056,Jarrukopan kannen tiiviste,2,kpl,0,1.05
+572,E14,E14002,D30-1401111-A,Öljypohjantiiviste,0,kpl,0,2.4
+573,E14,E14003,D30-1002183,Tiiviste,0,kpl,0,2.35
+574,E14,E14004,D22-1005332,Startti hammaskehä,1,kpl,0,12.5
+575,E15,E15000,T25-1601415-B2,Kytkimenjousi,27,kpl,0,1.65
+576,E15,E15001,T25-1601009-A1,Kytkimen pultti,11,kpl,0,5.95
+577,E15,E15002,T25-1601095-A,Kytkinkäpälän levy,11,kpl,0,1.85
+578,E15,E15003,D37M-1407705-B,Lukkorengas öljynsuodatin,0,kpl,0,0.8
+579,E15,E15004,D37M-1408496-B,Panjopultti öljynsuodatin,0,kpl,0,2
+580,E15,E15005,D37M-1008125-A2,Pinnapultti,16,kpl,0,0.45
+581,E15,E15006,D30-1007399,venttiilinvarren kumitiiviste,43,kpl,0,0.45
+582,E15,E15007,70-180504KC9,Laakeri,1,kpl,0,2.85
+583,E15,E15008,BK317,Virtalukko 2-napainen,3,kpl,0,4.5
+584,E15,E15009,1316/T40,Siirtokotelon tiivistesarja,2,kpl,0,2.5
+585,E15,E15010,1705K,Korjaussarja / Etuakselin napa tiivsarja 50*70,2,kpl,0,3.15
+586,E15,E15011,1304/T40,korjaussarja,0,kpl,0,3.25
+587,E15,E15012,3005/802,korjaussarja,1,kpl,0,3
+588,E15,E15013,TC-90/REM,Sylinterin korjaussarja/tiivistesarja,5,kpl,0,1.75
+589,E15,E15014,717/T40,raidetangon korjaussarja T40,1,kpl,0,2.05
+590,E15,E15015,707,Ohjaustehostimen täydellinen tiivistesarja,2,kpl,0,1.26
+591,E15,E15016,402/TS-63,Ohjaussyl. TS-63 tiivistesarja,1,kpl,0,1.44
+592,E15,E15017,2112/D240,Suuttimen alusholkit sarja D240 moottori,1,kpl,0,1.1
+593,E16,E16100,CN150A,Hehkutulppa,2,kpl,0,5.75
+594,E16,E16101,T40A-2306134,Kansi,1,kpl,0,11.8
+595,E16,E16102,T25-1601094-B1,Kytkinkäpälä,8,kpl,0,2.75
+596,E16,E16103,438,Sylinterin korjaussarja,0,kpl,0,2.1
+597,E16,E16104,406,Sylinterin korjaussarja,0,kpl,0,2.85
+598,E16,E16105,21.1106010,Siirtopumppu,2,kpl,0,44123
+599,E16,E16106,21.1106380-20,Käsipumppu,2,kpl,0,5.25
+600,E16,E16107,UTN3-1106010,Siirtopumppu rivipumpulle,0,kpl,0,24.44
+601,E16,E16108,R80 3/4-ZZZ,Hydr-lohkon tiivistesarja,0,kpl,0,7.86
+602,E17,E17000,T40-1205191,Pakoputken kiinnitysosa,2,kpl,0,6.75
+603,E17,E17001,H10002,Etuakselin vetoakseli ristikkonivel,1,kpl,0,141.5
+604,E17,E17002,T40-2303115-A,Akseli,1,kpl,0,35
+605,E17,E17003,D37M-1008120G9,Pakosarja,1,kpl,0,45
+606,E17,E17004,T40-201061-B,Pakosarjan kulma,2,kpl,0,8.75
+607,E17,E17005,T25-1701052,Vaihteiston ratas,0,kpl,0,11.13
+608,E17,E17006,T25-1702172-B,Vaihdekepin akseli,0,kpl,0,0
+609,E18,E18000,D37M-1004115,Männänhela,4,kpl,0,2.75
+610,E18,E18001,70-180504KC9,Painelaakeri,0,kpl,0,2.85
+611,E18,E18002,T25-1702166B,Siirtohaarukka,2,kpl,0,12.3
+612,E18,E18003,T40A-2303055,Toppari palikka,2,kpl,0,6.75
+613,E18,E18004,T40A-2301096,Lukitustappi/kiilatappi,2,kpl,0,6.78
+614,E18,E18005,T50-3001146,Hela,1,kpl,0,12.57
+615,E18,E18006,T40-2301042,Olka-akselin hela,1,kpl,0,0.75
+616,E18,E18007,D30-1006214-A,Hammaspyörä Z=40,3,kpl,0,19
+617,E18,E18008,D30-1006285-A,HammaspyöräZ=20,1,kpl,0,16.75
+618,E18,E18009,D30-4618037,Pumpun hammasratas,2,kpl,0,26.75
+619,E18,E18010,T40A-2306134B,Kansi,1,kpl,0,11.8
+620,E18,E18011,T50-1701029,Hammaspyörä  Z=23,1,kpl,0,18
+621,E18,E18012,T25-1701045,Hammaspyörä,1,kpl,0,25.02
+622,E18,E18013,D144-1403312,Hammaspyörä  Z=29,1,kpl,0,18.65
+623,E18,E18014,T25-1701052,Hammaspyörä,1,kpl,0,14.7
+624,E18,E18015,T25-1701001-B1-01,Hammaspyörä ryhmä  ,1,kpl,0,240.54
+625,E18,E18016,T60-1701154,Holkki,0,kpl,0,20
+626,E18,E18017,T60-1701154-B,Holkki,0,kpl,0,20
+627,E19,E19000,D37M-1300200,Suojaritilä,1,kpl,0,11
+628,E19,E19001,T25-1601138,Kytkinlevy  pinnat srj.2kpl,1,kpl,0,14.25
+629,E19,E19002,T25-3502070,Jarruhihna,0,kpl,0,21.15
+630,E19,E19003,T25-1601096,Kytkinkäpälän kiinnityssokka,0,kpl,0,1
+631,E19,E19004,T25-1117040,Polttoaine suodatin,1,kpl,0,3
+632,E19,E19005,53A-2201025-22,Kardaanin ristikko,2,kpl,0,12
+633,E19,E19006,D144-1004100,Kiertokanki,1,kpl,0,74.75
+634,E19,E19007,D144-1104120-B,pakoputki,1,kpl,0,2.2
+635,E19,E19008,D144-1104660-B,pakoputki,1,kpl,0,2.3
+636,E19,E19009,6A120C250.01,pakoputki,3,kpl,0,5.65
+637,E19,E19010,D37-1007157,Pinnapultti,0,kpl,0,0.45
+638,E19,E19011,70-180504KC9,Laakeri,1,kpl,0,4
+639,E19,E19012,60-1205015-01,Pakoputki,0,kpl,0,20.34
+640,E20,E20000,T25-1601097-B3,Kytkinkäpälän jousi,3,kpl,0,1.45
+641,E20,E20001,T25-1601160,Kytkin levy,1,kpl,0,14.2
+642,E20,E20002,T25-1601182-B1,Painelaakerin pesä,1,kpl,0,22.75
+643,E20,E20003,T25-1601130-B2,Kytkinlevy,1,kpl,0,29.75
+644,E20,E20004,T40A-2305027-A,Kumisuoja,2,kpl,0,1.95
+645,E20,E20005,T-25-4628524-01,nostolaitteen kääntöakseli,0,kpl,0,31.61
+646,E20,E20006,9588214K129,Painelaakeri,2,kpl,0,4.43
+647,E20,E20007,986714AEC17,Painelaakeri,2,kpl,0,4.47
+648,E20,E20008,T25-1601096,Sokappi,12,kpl,0,1.2
+649,F1,F10000,16.9-34,Sisärengas,1,kpl,0,45
+650,F2,F20000,16.9.1938,Sisärengas,1,kpl,0,45
+651,F3,F31000,12.00-20,Sisärengas,1,kpl,0,24.5
+652,F4,F41000,12.00-20,Sisärengas,1,kpl,0,24.5
+653,F5,F51000,11.2/12.4-24,Sisärengas,2,kpl,0,32
+654,F6,F60000,9.5.1932,Sisärengas,1,kpl,0,0
+655,F7,F70000,13.6/14.9-38,Sisärengas,2,kpl,0,0
+656,F8,F80000,787.000.030,Lasinpyyhkijä,4,kpl,0,21.32
+657,F9,F91000,9.00-16,Sisärengas,2,kpl,0,13.5
+658,F9,F91001,7.50-20,Sisärengas,1,kpl,0,25
+659,F10,F10000,16.5/70-18,Sisärengas,1,kpl,0,33
+660,F13,F13000,70-4216011,Ulosoton vivun jousi,24,kpl,0,4.75
+661,F14,F14000,9.00-16,Sisärengas,2,kpl,0,13.5
+662,F15,F15000,14.9/13-24,Sisärengas,1,kpl,0,32
+663,F15,F15001,14.9/13.6-24,Sisärengas,1,kpl,0,32
+664,F15,F15002,13.6/14.9-38,Sisärengas,0,kpl,0,43
+665,F16,F16000,7.5-20,Sisärengas,1,kpl,0,25
+666,F16,F16001,11.2.2020,Sisärengas,1,kpl,0,30
+667,F17,F17000,7.00/7.50-16,Sisärengas,1,kpl,0,10
+668,F18,F18000,"16,5-18",Sisärengas,1,kpl,0,33
+669,F19,F19000,11.5/80-15.3,Sisärengas pystyventtiili,3,kpl,0,18
+670,F19,F19001,14.0/64-16,Sisärengas   pystyventtiili,3,kpl,0,20
+671,G1,G10000,12.00-16,Sisärengas,1,kpl,0,15
+672,G1,G10001,"11,2/12,4-28 11,2/10-28",Sisärengas,1,kpl,0,40
+673,G2,G20000,14.9-24,Sisärengas,1,kpl,0,30
+674,G3,G30000,8.00/9.5-20,Sisärengas,1,kpl,0,0
+675,G4,G40000,13.6/14.9-38,Sisärengas,0,kpl,0,43
+676,G6,G60000,14.9/15.5-30,Sisärengas,2,kpl,0,40
+677,G7,G70000,13.6-20,Sisärengas,0,kpl,0,28
+678,G9,G90000,80-6708600,Käsinoja,4,kpl,0,14.75
+679,G9,G90001,80-6809100-11,"Istuimen iskunvaimennin halk 30 mm , pituus 280 mm",1,kpl,0,12.75
+680,G9,G90002,A37.05.025,Takalasin salpa,1,kpl,0,8.47
+681,G9,G91000,80-4216100,Sylinteri,0,kpl,0,40
+682,G9,G91001,A13.17.000,Nuppi kädensijan,2,kpl,0,1.75
+683,G9,G91002,A13.33.002,Polkimen suojakumi,4,kpl,0,1.95
+684,G9,G91003,A13.36.001,kaasupolkimen kumi,4,kpl,0,2
+685,G9,G91004,80-6105300A1,Ovenkahva lukolla,2,kpl,16.53,8
+686,G9,G91005,,Ovenkahva,0,kpl,0,2.75
+687,G9,G91006,A61.01.014,Nuppi,7,kpl,0,1.6
+688,G9,G91007,50-1310136,Nuppi,1,kpl,0,1.5
+689,G9,G91008,32.02.3731,Heijastin,2,kpl,0,1.2
+690,G9,G91009,70-1702020-A,Vaihdevipu,0,kpl,0,4.87
+691,G10,G10100,05.161.000.03,Etuvalo,1,kpl,0,12.5
+692,G10,G10001,8703,Etuvalo,1,kpl,0,4.52
+693,G10,G10002,OG304,Etuvalo,1,kpl,0,4.52
+694,G10,G10003,OG305,,0,kpl,0,0
+695,G11,G11000,PF204,Takavalo,6,kpl,0,7.7
+696,G11,G11001,FP131-AP,Rekisteri kilvenvalo,2,kpl,0,2.75
+697,G11,G11002,3713.3712,Etuparkki vilku,6,kpl,0,7.5
+698,G11,G11003,7303.3716,Takavalo,2,kpl,0,6
+699,H1,H10000,52-2308028A,Tiiviste,13,kpl,0,0.65
+700,H1,H10001,72-2308023,Tiiviste,2,kpl,0,3.78
+701,H1,H10002,72-2308023-B,Tiiviste,9,kpl,0,0.8
+702,H1,H10003,52-2308024,Tiiviste,7,kpl,0,0.75
+703,H1,H10004,240-1002444-A,tiiviste,2,kpl,0,0.5
+704,H1,H10005,50-1008028,Pakosarjantiiviste,6,kpl,0,0.65
+705,H1,H10006,50-1008026-B,Pakosarjantiiviste,4,kpl,0,0.65
+706,H1,H10007,50-1008027-B,Pakosarjan tiiviste,8,kpl,0,0.65
+707,H1,H10008,245-1008016,Turbon tiiviste,14,kpl,0,0.85
+708,H2,H21000,50-1404059-B1,Tiiviste Keskipakos.,10,kpl,0,0.65
+709,H2,H21001,240-1002038,Tiiviste,3,kpl,0,0.35
+710,H2,H21002,240-1003031,Imusarjantiiviste,6,kpl,0,0.3
+711,H2,H21003,50-1117102,Pö-aine kotelonkannen tiiviste,13,kpl,0,0.55
+712,H2,H21004,70-4604037,Tiiviste,4,kpl,0,0.18
+713,H2,H21005,240-1022075-A1,Tiiviste,2,kpl,0,1.5
+714,H2,H21006,50-2407029,Tiiviste,7,kpl,0,1.35
+715,H2,H21007,245-1306023,Termostaatin tiiviste,6,kpl,0,0.4
+716,H2,H21008,70-46008033,Hydraulisäilön tiiviste,0,kpl,0,0.25
+717,H3,H31000,50-1307048-B,Vesipumpuntiiviste,2,kpl,0,0.8
+718,H3,H31001,240-1002082-B,Täyttöputken tiiviste,3,kpl,0,0.8
+719,H3,H31002,50-1307049-A,Vesipumpuntiiviste,3,kpl,0,0.45
+720,H3,H31003,50-1403033,Öljypumpun tiiviste,15,kpl,0,0.3
+721,H3,H31004,50-4607097,Tiiviste,0,kpl,0,0.95
+722,H3,H31005,50-1601091,Tiiviste,0,kpl,0,1.25
+723,H3,H31006,50-1015598,Pakosarjan tiiviste,3,kpl,0,0.85
+724,H3,H31007,240-1117102,Tiiviste,4,kpl,0,0.75
+725,H3,H31008,240-1003264-A,Tiiviste,1,kpl,0,0.65
+726,H4,H40000,70-1601314,Tiiviste,4,kpl,0,0.5
+727,H4,H40001,50-1601345,Vaihteiston kannen tiiviste,5,kpl,0,1.4
+728,H4,H40002,50-1701026,Tiiviste,2,kpl,0,2.1
+729,H4,H40003,50-2407031B,Tiiviste,2,kpl,0,2.95
+730,H4,H40004,50-4202092A,Tiiviste ulosoton koppa,3,kpl,0,1.5
+731,H4,H40005,50-2401025,Peränkannen tiiviste,1,kpl,0,2.34
+732,H5,H51000,52-2308096,Tiiviste,2,kpl,0,0.8
+733,H5,H51001,1520-2308034,Tiiviste,3,kpl,0,1.75
+734,H5,H51002,72-2209023,Tiiviste,7,kpl,0,0.6
+735,H5,H51003,36-1022054-A,Tiiviste,5,kpl,0,1.05
+736,H5,H51004,20-2201024,Tiiviste,2,kpl,0,0.65
+737,H5,H51005,50-1021012,Tiiviste,6,kpl,0,0.26
+738,H5,H51006,50-3407043-A,Tiiviste,1,kpl,0,1.06
+739,H5,H51007,80-1737112,Öljysuodattimen tiiviste,3,kpl,0,1.25
+740,H6,H61000,50-2401027-A,Tiiviste,6,kpl,0,0.65
+741,H6,H61001,50-1701459,Tiiviste,5,kpl,0,1.1
+742,H6,H61002,50-1404068,Tiiviste,4,kpl,0,1.45
+743,H6,H61003,50-1601347,Tiiviste,2,kpl,0,0.5
+744,H6,H61004,50-4608049,Tiiviste hyrd.,10,kpl,0,0.95
+745,H6,H61005,50-1701456-A,Tiiviste vaihteisto,3,kpl,0,1.05
+746,H6,H61006,50-1702026,"Tiiviste, vaihteiston kannen tiiviste",0,kpl,0,1.35
+747,H6,H61007,50-2401016B,Tiiviste vaihteisto,8,kpl,0,1.7
+748,H7,H71000,50-1006315,Tiiviste nokka-akseli,5,kpl,0,0.95
+749,H7,H71001,240-1002064-A,Tiiviste jakopää,2,kpl,0,1.55
+750,H7,H71002,240-1002033,Tiiviste,1,kpl,0,1.05
+751,H7,H71003,240-1002314,Tiiviste,6,kpl,0,2.15
+752,H7,H71004,16-148-B,Siirtopumpun tiiviste,4,kpl,0,0.7
+753,H7,H71005,52-2308034,Tiiviste,1,kpl,0,2.1
+754,H8,H81000,50-1003020-A2,Kannentiiviste,0,kpl,0,3.75
+755,H8,H81001,50-1003020-A,Kannentiiviste D-60,0,kpl,0,4.6
+756,H8,H81002,F4.118.3,Liekkirengas,0,kpl,0,0.33
+757,H9,H90000,UTN-5-1110321B1,Syöttöpumpun akseli sisempi hela,3,kpl,0,0.9
+758,H9,H90001,260-1307171,O-rengas vesipumppu,3,kpl,0,1.55
+759,H9,H90002,P803/1-222.464,Jakajan korj.sarja,3,kpl,0,4.25
+760,H9,H90003,50-1605152,Jousi kytkimen palautusj.,2,kpl,0,1.75
+761,H9,H90004,52-2308039,"Simmilevy 0,5mm",2,kpl,0,3
+762,H9,H90005,52-2308038,"Simmilevy 0,2mm",3,kpl,0,1.1
+763,H9,H90006,50-1702148-A,Vaihteiston kannen jousi,13,kpl,0,0.85
+764,H9,H90007,50-3405033-A,Ohjaussylinterin tappi,3,kpl,0,1.2
+765,H9,H90008,36-1104788,Tiivisterikka,44,kpl,0,0.3
+766,H9,H90009,40-4607038-A,Tiivisterikka   20mm,24,kpl,0,0.75
+767,H9,H90010,40-4607033-A,Tiivisterikka   25mm,57,kpl,0,0.9
+768,H9,H90011,18-09-02,Kuparirikka,6,kpl,0,0.9
+769,H9,H90012,"24-33,5-1",Rikka tiiviste,3,kpl,0,0.8
+770,H9,H90013,D-18-055A,Kuparirikka,6,kpl,0,0.3
+771,H9,H90014,P407,Sylinterin korjaus sarja 110mm,2,kpl,0,3.45
+772,H9,H90015,CHD-100B,Hehkutulppa,0,kpl,0,6.25
+773,H9,H90016,5206.265.010,Lasinpyyhkijän varsi,1,kpl,0,7.5
+774,H9,H90017,5205.65.01,Lasinpyyhkijän sulka,1,kpl,0,5.25
+775,H9,H90018,469-5113038-01,Suojakumi,1,kpl,0,4.25
+776,H9,H90019,26-31-2,Rikka tiiviste,3,kpl,0,0.8
+777,H10,H10100,240-1003109,Venttiilikopan tiiviste,0,kpl,0,0.86
+778,H10,H10101,50-1003109,Venttiilikopan tiiviste,1,kpl,0,2.85
+779,H11,H11000,50-1003108,Välikannen tiiviste,2,kpl,0,2.85
+780,H11,H11001,240-1003108,Välikannen tiiviste,0,kpl,0,3.95
+781,H12,H12000,240-1401065,Tiiviste,0,kpl,0,1.2
+782,H12,H12001,240-1401059,Tiiviste,0,kpl,0,0.9
+783,H12,H12002,50-1401063-B1,Öljypohjan tiiviste,4,kpl,0,1.35
+784,H13,H13000,035-045-050-1-4,O-rengas,1,kpl,0,0.4
+785,H13,H13001,075-080-30-1-4,O-rengas,3,kpl,0,1
+786,H13,H13002,040-048-46-1-4,O-rengas,3,kpl,0,0.45
+787,H13,H13003,054-060-36-1-4,O-rengas,5,kpl,0,0.5
+788,H13,H13004,150-155-36-1-4,O-rengas,3,kpl,0,1.45
+789,H13,H13005,021-025-25,O-rengas,19,kpl,0,0.35
+790,H13,H13006,50-3405037-4,O-rengas,5,kpl,0,0.3
+791,H13,H13007,115-120-30,O-rengas,0,kpl,0,0.65
+792,H13,H13008,080-087-30-2-4,O-rengas,0,kpl,0,0.55
+793,H13,H13009,027-033-30-1-4,O-rengas,2,kpl,0,0.35
+794,H13,H13010,130-135-30-2-4,O-rengas,3,kpl,0,0.75
+795,H13,H13011,160-165-36-2-2,O-rengas,1,kpl,0,0.65
+796,H13,H13012,110-115-30-2-2,O-rengas,3,kpl,0,0.65
+797,H13,H13013,085-090-30,O-rengas,18,kpl,0,0.5
+798,H13,H13014,080-088-46-2-4,O-rengas,12,kpl,0,0.55
+799,H13,H13015,089-095-36-1-4,O-rengas,14,kpl,0,0.6
+800,H13,H13016,070-080-58-1-4,O-rengas,4,kpl,0,0.5
+801,H13,H13017,104-110-40,O-rengas,23,kpl,0,0.65
+802,H13,H13018,017-022-30-2-2,O-rengas,7,kpl,0,0.3
+803,H13,H13019,50-1003107-A,O-rengas,4,kpl,0,0.3
+804,H13,H13020,055-065-58-2-2,O-rengas,0,kpl,0,0.5
+805,H13,H13021,290-300-58-2-4,O-rengas,2,kpl,0,1.8
+806,H14,H14000,016-019-019,O-rengas,1,kpl,0,0.3
+807,H14,H14001,016-21-20-1-4,O-rengas,1,kpl,0,0.25
+808,H14,H14002,80-87-30,O-rengas,13,kpl,0,0.55
+809,H14,H14003,022-027-30-2-3,O-rengas,7,kpl,0,0.35
+810,H14,H14004,013-017-25-1-4,O-rengas,10,kpl,0,0.25
+811,H14,H14005,042-050-46-2-2,O-rengas,5,kpl,0,0.45
+812,H14,H14006,011-016-30-1-4,O-rengas,4,kpl,0,0.25
+813,H14,H14007,011-015-25-1-4,O-rengas,18,kpl,0,0.25
+814,H14,H14008,120-125-30-1-4,O-rengas,4,kpl,0,1.05
+815,H14,H14009,020-025-30-1-4,O-rengas,12,kpl,0,0.35
+816,H14,H14010,132-125-45,O-rengas  245-1002022,6,kpl,0,0.75
+817,H14,H14011,037-041-25,O-rengas,7,kpl,0,0.4
+818,H14,H14012,078-87-46,O-rengas,0,kpl,0,0.55
+819,H14,H14013,98-4-4-10A,O-rengas pö-vesikuppi,4,kpl,0,1
+820,H14,H14014,50-1202022-01,O-rengas,3,kpl,0,0.75
+821,H14,H14015,100-108-40,O-rengas,1,kpl,0,0.75
+822,H14,H14016,055-065-50,O-rengas,5,kpl,0,0.5
+823,H14,H14017,025-030-30-1-4,O-rengas,7,kpl,0,0.35
+824,H14,H14018,014-17-19-1-4,O-rengas,6,kpl,0,0.25
+825,H14,H14019,038-046-46,O-rengas,6,kpl,0,0.45
+826,H14,H14020,036-040-25-2-3,O-rengas,12,kpl,0,0.4
+827,H14,H14021,016-021-30-2-4,O-rengas,17,kpl,0,0.3
+828,H14,H14022,018-022-25-2-3,O-rengas,19,kpl,0,0.3
+829,H14,H14023,035-040-30,O-rengas,2,kpl,0,0.4
+830,H14,H14024,022-028-36-2-2,O-rengas,0,kpl,0,0.35
+831,H14,H14025,A.65.01.002,O-rengas Tiiviste vedenerottajan,1,kpl,0,0.55
+832,H14,H14026,024-030-36-2-3,O-rengas,4,kpl,0,0.35
+833,H14,H14027,52-2308091A,O-rengas,0,kpl,0,0.45
+834,H14,H14028,035-040-1-4,O-rengas Perävetoakselille,0,kpl,0,0.17
+835,H15,H15000,2.2-75x100-1,Stefa,4,kpl,0,1
+836,H15,H15001,"1,2 45x65-1",Stefa,0,kpl,0,1.35
+837,H15,H15002,"1,2 38x62-1",Stefa,0,kpl,0,1.35
+838,H15,H15003,"2,2 38x58-1",Stefa,1,kpl,0,1.15
+839,H15,H15004,"2,2 25x42-1",Stefa,0,kpl,0,1.25
+840,H15,H15005,"2,2 25x42,7",Stefa,1,kpl,0,2.25
+841,H15,H15006,"2,2 38x62-1/4",Stefa,2,kpl,0,2
+842,H15,H15007,"2,2 80x105-1",Stefa,3,kpl,0,1.9
+843,H15,H15008,"1,2 80x105-1",Stefa,8,kpl,0,1.35
+844,H15,H15009,42x62x7,Stefa,1,kpl,0,1.8
+845,H15,H15010,"2,2 65x90-1",Stefa,8,kpl,0,1.2
+846,H15,H15011,"2,2 30x52-1",Stefa,5,kpl,0,1.15
+847,H15,H15012,"1,2 25x42-1",Stefa,29,kpl,0,1.65
+848,H15,H15013,"1,2 60x85-1",Stefa,0,kpl,0,2.35
+849,H15,H15014,240-1002055,"Stefa 2,2x50-70-10AO",10,kpl,0,0.95
+850,H15,H15015,"2,2 35x58x10",Stefa,12,kpl,0,0.25
+851,H15,H15016,240-1111036-B,Stefa,13,kpl,0,1.25
+852,H15,H15017,240-1002305,Stefa 100-125-12AO,0,kpl,0,2.25
+853,U1,R10000,"6.00-16""",Mitas vetokuvio 8 pr,2,kpl,0,59.65
+854,U1,R10001,11.5/80-15.3,TWS EUROGRID 12 pr,0,kpl,0,0
+855,U1,R10002,"13.6-20""",NORTEC,0,kpl,0,0
+856,U1,R10003,6.00-16,Voltyre,0,kpl,0,0
+857,U1,R10004,9.5-32,TYRES AGRO,1,kpl,0,168
+858,U1,R10005,400/60-15.5,RENGAS/BKT,0,kpl,0,0
+859,U1,R10006,9.00R20,RENGAS/VENÄLÄINEN,0,kpl,0,0
+860,U1,R10007,11.00R20,KAMA,1,kpl,0,180
+861,U1,R10008,7.50-16,PR8 speedways gripking,0,kpl,0,0
+862,U1,R10009,8.3-20,jAlliance eturentas,1,kpl,0,120
+863,U1,R10010,11.2-20,NORTEC,0,kpl,189.52,0
